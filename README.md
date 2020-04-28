@@ -1,2 +1,21 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
 # r-prints
-Creating R graphics for printing
+
+<!-- badges: start -->
+
+<!-- badges: end -->
+
+The goal of r-prints is to store graphics/prints I created with R.
+
+## Organization
+
+  - Graphics are created in the `\r` folder
+  - Output files are stored in `\outputs` folder under the same name as
+    the .r file.
+
+## Future
+
+If I create a lot of r-graphics, I might need to reorganize and output
+the files to multiple locations. TBD.
