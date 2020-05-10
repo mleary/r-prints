@@ -35,8 +35,8 @@ plot.out <- dat %>%
   xlim(0,200) +
   ylim(0, 100) +
   theme_solarized() +
-  labs(x = "Confidence",
-       y = "Knowledge",
+  labs(x = "Knowledge",
+       y = "Confidence",
        caption = "Special thanks to Dunning, Kruger & over confidence") +
   theme(axis.text=element_blank(),
         axis.title = element_text(size = 32, face= "bold"),
